@@ -14,10 +14,17 @@ How To Play
 4. Hit,Stand,Double Down or Split.
 5. Enjoy!
 -------------------------------------------------------
-# Blackjack-Project 2.0
+Blackjack-Project 2.0
 -------------------------------------------------------
-Added Changes
--------------------------------------------------------
+Changelog:
 -Added Dealer Insurance
--Optimized Code 
+-Optimized Code
+
+-------------------------------------------------------
+Blackjack-Project 3.0
+-------------------------------------------------------
+Changelog
+-Fixed Double Down Feauture
+-Added ASCII visualization of cards 
+
 -------------------------------------------------------
