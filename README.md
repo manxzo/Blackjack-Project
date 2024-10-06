@@ -4,7 +4,6 @@ A simple game of Blackjack
 -------------------------------------------------------
 Functionality
 - Multiple Players
-- Dealer 21 Insurance
 - Sidebets such as Dealer Bust,Mixed Pair and Same Pair
 -------------------------------------------------------
 How To Play
